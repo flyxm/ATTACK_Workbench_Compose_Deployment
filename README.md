@@ -54,8 +54,10 @@ A tool for defining and managing multi container applications.
 ## Deployment Environment
 <font face="HEI">Docker Desktop WSL 2 backend on Windows</font>
 
-### Requirements    
+### Requirements   
+
 [Node.js v22.18](https://nodejs.org/en)
+
 [AngularCLI v17](https://cli.angular.io/)  
 
 ## Quick start
