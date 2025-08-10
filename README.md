@@ -51,7 +51,14 @@ Container Management Panel (optional for monitoring and managing containers).
 ### Docker Compose:  
 A tool for defining and managing multi container applications.
 
-## Requirements
+## Deployment Environment
+<font face="HEI">Docker Desktop WSL 2 backend on Windows</font>
+
+### Requirements    
+[Node.js v22.18](https://nodejs.org/en)
+[AngularCLI v17](https://cli.angular.io/)  
+
+## Quick start
 
 ## Verification Services
 
